@@ -1,0 +1,53 @@
+.container{
+    height: 600px;
+    color: white;
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20200512/pngtree-futuristic-blue-digital-dot-map-on-the-future-image_335458.jpg');
+    text-align: center;
+}
+.container h1{
+    margin-top: 0;
+    padding-top: 20px;
+}
+.policy{
+    font-size: 10px;
+}
+.decription{
+    padding: 40px;
+    padding-bottom: 20px;
+}
+.container input{
+    width: 90%;
+    padding: 15px;
+}
+.policy p{
+    padding: 15px;
+}
+.policy a{
+    color: aqua;
+    text-decoration: none;
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+.button-container button{
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(27, 133, 220);
+    color: white;
+    border: white solid 1px;
+    cursor: pointer;
+}
+.ad{
+    background-color: rgb(56, 222, 56);
+    color: white;
+    border: none;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+.content{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+}
